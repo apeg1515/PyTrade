@@ -1,0 +1,2 @@
+# PyTrade
+trading platform
