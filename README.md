@@ -1,2 +1,2 @@
 # PyTrade
-trading platform
+trading platform: Python for Financing
